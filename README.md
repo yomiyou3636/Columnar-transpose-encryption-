@@ -1,0 +1,1 @@
+This project contains two files, one each for encryption and decryption using the columnar transpose method which an symmetric encryption method. The  message to be encrypted is written out in rows of a fixed length, and then read out again column by column, and the columns are chosen in some scrambled order.  
