@@ -47,7 +47,7 @@ Similarly, to decrypt the ciphertext with the key "KEY," you would run the decry
 
 ## License
 
-This project is licensed under no License.
+This project is not under any License.
 ---
 
 *Note: The Vigenère cipher is a classical and relatively simple encryption method. While it can provide basic security, it is not suitable for high-stakes security applications.*
