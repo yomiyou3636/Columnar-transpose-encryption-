@@ -11,9 +11,9 @@ This is a Python program for encrypting and decrypting text using the Vigenère 
 
 To encrypt a plaintext message using the Vigenère cipher, run the `vigenere_encrypt.py` script. Follow the instructions to enter the key and plaintext message.
 
-
+```bash
 python vigenere_encrypt.py
-
+```
 
 The encrypted ciphertext will be displayed.
 
@@ -23,9 +23,9 @@ The encrypted ciphertext will be displayed.
 
 To decrypt a Vigenère cipher text using the key, run the `vigenere_decrypt.py` script. Follow the instructions to enter the key and the ciphertext.
 
-
+```bash
 python vigenere_decrypt.py
-
+```
 
 The decrypted plaintext will be displayed.
 
@@ -47,10 +47,10 @@ Similarly, to decrypt the ciphertext with the key "KEY," you would run the decry
 
 ## License
 
-This project is licensed under  no License.
+This project is licensed under no License.
 ---
 
 *Note: The Vigenère cipher is a classical and relatively simple encryption method. While it can provide basic security, it is not suitable for high-stakes security applications.*
 ```
 
-
+This README provides an overview of your code repository, explains how to use the encryption and decryption scripts, lists the prerequisites, highlights key features, provides an example, and mentions the license. You can add or modify content as needed.
